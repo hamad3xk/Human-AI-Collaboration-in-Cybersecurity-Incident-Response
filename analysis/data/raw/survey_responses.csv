@@ -1,0 +1,3 @@
+participant_id,condition,trust_pre,trust_post,nasa_tlx,ai_experience,csir_experience
+P001,A,3,2,48,low,medium
+P002,B,3,4,42,medium,low

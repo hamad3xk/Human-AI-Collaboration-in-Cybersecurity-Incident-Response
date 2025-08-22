@@ -1,0 +1,10 @@
+[
+  {
+    "AlertType": "Possible Data Exfiltration",
+    "Time": "02:13",
+    "SourceIP": "192.168.1.14",
+    "DestIP": "45.33.22.12",
+    "TriggeredRule": "3021 - Anomalous Large Transfer",
+    "Context": "After-hours transfer to unfamiliar external host"
+  }
+]

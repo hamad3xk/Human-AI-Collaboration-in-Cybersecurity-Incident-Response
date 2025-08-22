@@ -1,0 +1,3 @@
+participant_id,condition,trial_id,alert_type,decision,rt_seconds
+P001,A,1,Exfiltration,accept,21.4
+P001,A,2,Phishing,investigate,18.2

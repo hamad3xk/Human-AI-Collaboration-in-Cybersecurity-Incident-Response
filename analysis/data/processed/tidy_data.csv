@@ -1,0 +1,2 @@
+participant_id,condition,trust_pre,trust_post,nasa_tlx,ai_experience,csir_experience,accept_rate,investigate_rate,mean_rt
+P001,A,3,2,48,low,medium,0.5,0.5,19.799999999999997
